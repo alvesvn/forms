@@ -21,5 +21,8 @@
 - Criação de temas e estilos
 
 ## Veja os formulários
-  ### 1. Web page
-  <a href="https://event-form-nine.vercel.app/"><img src="https://github.com/user-attachments/assets/35ee6b5d-9774-487a-94c5-3a9bf3dd5251" alt="Pagina de web responsivo"/></a>
+  ### 1. Crie seu evento
+  <a href="https://event-form-nine.vercel.app/"><img src="https://github.com/user-attachments/assets/d47c694a-06a7-458a-b931-a897e8173200"/></a>
+
+  ### 2. Formulário escolar
+  <a href="https://forms-pi-six.vercel.app/"><img src="https://github.com/user-attachments/assets/d47c694a-06a7-458a-b931-a897e8173200"/></a>
